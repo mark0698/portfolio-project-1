@@ -19,13 +19,24 @@ font-weight: 300;}
     font-size: 17px;
   }
 
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
 ol {
     display: inline;
     float: left;
-    padding: 25px}
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom:10px;}
     
-#footer {
-    float:right;
-    position: absolute;
-    bottom: 10px;
-    width: 100%;}
+    #footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    background-color: #3fc460;
+    color: #f5f52c;
+        text-align: center;
+      }
