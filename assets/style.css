@@ -1,7 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Oswald:wght@300&display=swap');
+
 * {border:none;
 margin: 0;
 padding:0;
 }
-body {font-family:lato, sans-serif;
+body {font-family:sans-serif;
 font-weight: 300;}
+
+.navbar {
+    background-color: #3fc460;
+    overflow: hidden;
+  }
+  .navbar a {
+    float: left;
+    color: #f5f52c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+ol {
+    display: inline;
+    float: left;
+    padding: 25px}
+    
+#footer {
+    float:right;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;}
