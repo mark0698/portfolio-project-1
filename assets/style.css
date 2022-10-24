@@ -33,6 +33,10 @@ ol {
     padding-top: 10px;
     padding-bottom:10px;}
 
+    /*media queries*/
+    /*large to medium size queries*/
+    @media screen and (max-width: 1200px){}
+
     /* footer styling*/
     
     #footer {
@@ -63,4 +67,12 @@ background-repeat: no-repeat;
   left: 50%;
   transform: translate(-50%, -50%);
     color: #f5f52c;
+}
+
+/* About styling */
+#about {float:left;
+  width:40%;
+}
+
+#about-image {float:right;
 }
