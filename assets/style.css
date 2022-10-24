@@ -1,3 +1,4 @@
+/* font */
 
 * {border:none;
 margin: 0;
@@ -5,6 +6,7 @@ padding:0;
 }
 body {font-family:sans-serif;
 font-weight: 300;}
+/* navbar */
 
 .navbar {
     background-color: #3fc460;
@@ -30,6 +32,8 @@ ol {
     padding-left: 50px;
     padding-top: 10px;
     padding-bottom:10px;}
+
+    /* footer styling*/
     
     #footer {
         position: fixed;
@@ -40,3 +44,11 @@ ol {
     color: #f5f52c;
         text-align: center;
       }
+      
+      /* hero image styling */
+ #hero-image {
+  align: left;
+height:350px;
+width:100%;
+background: url("../assets/images/hero-image.jpeg") center;
+ }
