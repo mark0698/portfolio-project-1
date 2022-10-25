@@ -76,8 +76,11 @@ background-repeat: no-repeat;
 }
 
 /* Events styling */
-#events {
-  background-image: url ('../images/events.jpg');
+ #event {
+  color: black;
+  display: inline-block;
+  float: left;
+  width:100%;
 }
 
 /* form styling */
