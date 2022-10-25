@@ -93,11 +93,11 @@ background-repeat: no-repeat;
 border-radius: 4px #3fc460;
 color:#3fc460;
 padding-left: 20px;
-border-bottom: 5px ;}
+padding-top: 60px;}
 
 #freeform {
   width: 33%;
-  height: 100px;
+  height: 250px;
   padding: 12px 20px;
   box-sizing: border-box;
   border: 2px solid #ccc;
