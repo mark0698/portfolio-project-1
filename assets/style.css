@@ -1,12 +1,10 @@
 /* font */
 
-* {border:none;
-margin: 0;
-padding:0;
-}
+* {border:3px;
+  margin: 0;
+  padding:0;}
 body {font-family:sans-serif;
 font-weight: 300;}
-/* navbar */
 
 .navbar {
     background-color: #3fc460;
@@ -75,4 +73,9 @@ background-repeat: no-repeat;
 }
 
 #about-image {float:right;
+}
+
+/* Events styling */
+#events {
+  background-image: url ('../images/events.jpg');
 }
