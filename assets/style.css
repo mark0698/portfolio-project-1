@@ -6,6 +6,8 @@
 body {font-family:sans-serif;
 font-weight: 300;}
 
+/* header styling */
+
 .navbar {
     background-color: #3fc460;
     overflow: hidden;
@@ -30,10 +32,6 @@ ol {
     padding-left: 50px;
     padding-top: 10px;
     padding-bottom:10px;}
-
-    /*media queries*/
-    /*large to medium size queries*/
-    @media screen and (max-width: 1200px){}
 
     /* footer styling*/
     
@@ -70,9 +68,11 @@ background-repeat: no-repeat;
 /* About styling */
 #about {float:left;
   width:40%;
+  display: inline block;
 }
 
 #about-image {float:right;
+  display: inline block;
 }
 
 /* Events styling */
@@ -112,3 +112,11 @@ padding-top: 60px;}
   color: #f5f52c;
   padding: 12px 26px;
   margin: 4px 2px;}
+
+  /* Noteable resident styling */
+  #residents p {font-size: large;}
+  #residents h3 {font-size: larger;}
+  #residents div {padding-left: 2.5%;
+  padding-top: 2.5%;
+padding-bottom: 2.5%;
+padding-right: 2.5%;}
