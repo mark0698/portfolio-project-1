@@ -108,14 +108,15 @@ box-sizing: border-box;}
 /*Home page residents styling*/
 
 #residents {float:left;
-width: 100%;}
-
-
+width: 100%;
+padding: 1.5%;
+padding-bottom: 5%;}
 
 .people{
   float: left;
   width: 33.33%;
   box-sizing: border-box;
+  text-align: center;
 }
 
 .people img {height:250px;
