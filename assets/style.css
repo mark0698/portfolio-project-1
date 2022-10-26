@@ -68,7 +68,7 @@ background-repeat: no-repeat;
   color: #5CDB95;
 }
 
-/* About styling */
+/* homepage about styling */
 #about {float:left;
   width:40%;
   display: inline block;
@@ -79,7 +79,7 @@ background-repeat: no-repeat;
   display: inline block;
 }
 
-/* Events styling */
+/* homepage Events styling */
  #event {
   padding: 1.5%;
   color:black;
@@ -96,14 +96,23 @@ background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   overflow:hidden;
-  background-color: aliceblue;
-  padding-top: 30px;
-  padding-right: 1.5%;
+  padding: 30px 0px 0px 10px;
+  padding-right: 10px;
   text-align: center;
-  width: 30%;
+  width: 32%;
 height:150px;
 float:left;
-border: 2px white solid}
+border: 2px white solid;
+box-sizing: border-box;}
+
+/*Home page residents styling*/
+#resident {padding: 1.5%;
+  color:black;
+  display: inline-block;
+  float: left;
+  width:100%;
+  height:200px;}
+
 
 /* form styling */
 
