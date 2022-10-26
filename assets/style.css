@@ -120,7 +120,8 @@ padding-bottom: 5%;}
 }
 
 .people img {height:250px;
-width:250px;  }
+width:250px;  
+border-radius: 50%;}
 
 
 /* form styling */
