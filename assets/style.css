@@ -177,10 +177,15 @@ padding-top: 60px;}
   margin: 4px 2px;}
 
   /* Noteable resident styling */
-  #residents p {font-size: large;}
-  #residents h3 {font-size: larger;}
-  #residents div {padding-left: 2.5%;
+  #residents_page p {font-size: large;}
+  #residents_page h3 {font-size: larger;}
+  #residents_page div {padding-left: 2.5%;
   padding-top: 2.5%;
 padding-bottom: 2.5%;
 padding-right: 2.5%;}
+
+/* Notebale residents page image style */
+#residents_page img {height:250px;
+  width:250px;  
+  border-radius: 50%;}
 
