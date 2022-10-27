@@ -43,10 +43,20 @@ ol {
         left: 0;
         bottom: 0;
         width: 100%;
-    background-color: #05386B;
+        height: 5%;
+        background-color: #05386B;
     color: #5CDB95;
         text-align: center;
+        
       }
+      #footer li {  text-align:center;
+        list-style:none;
+        padding-left:50px;
+    padding-top: 10px;
+    padding-bottom:10px;
+  display:inline-block;
+color:white;}
+
       
       /* hero image styling */
  #hero-image {
@@ -75,8 +85,10 @@ background-repeat: no-repeat;
   padding:1.5%;
 }
 
-#about-image {float:right;
+#about img {float:right;
   display: inline block;
+  height:auto;
+  width:40%;
 }
 
 /* homepage Events styling */
