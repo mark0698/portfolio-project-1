@@ -57,6 +57,13 @@ ol {
   display:inline-block;
 color:white;}
 
+#footer i {
+  font-size: 170%;
+  margin: 1%;
+  padding :5%;
+  color: white;
+}
+
       
       /* hero image styling */
  #hero-image {
