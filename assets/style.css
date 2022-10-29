@@ -243,3 +243,9 @@ border-style: solid;
   #village {background-image: url(../assets/images/farmer.jpg);}
   #pub {background-image: url(../assets/images/pub.jpg);}
   #match {background-image: url(../assets/images/match.jpg);}
+
+
+  /* Landing page styling */
+  #landing-page {font-size: larger;
+  text-align: center;
+padding-top: 15%;}
