@@ -55,9 +55,11 @@ li {
         padding-bottom: 20px;
         
       }
-      #footer li {  text-align:center;
+      #footer li {  
+        position:center;
+        text-align:center;
         list-style:none;
-        padding-left:50px;
+        padding-left:12.5%;
     padding-top: 10px;
   display:inline-block;
 color:white;}
@@ -289,6 +291,6 @@ display: block;}
   height: 100%;
   width: 100%;
 }
-#form label {padding: 10px;}
+
  
 }
