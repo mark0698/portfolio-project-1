@@ -92,21 +92,25 @@ background-repeat: no-repeat;
 
 /* homepage about styling */
 
-#about1 {border-color: #5CDB95;
-  border-style: solid;}
-#about {float:left;
-  width:40%;
-  display: inline block;
-  padding:1.5%;
-  display:flex;
-  
-}
 
-#about img {float:right;
+#about { 
+  border-color: #5CDB95;
+  border-style: solid;
+  padding: 1.5%;
+  overflow: hidden;
+ box-sizing: border-box;
+}
+#blackrock {float:left;
+  width:50%;
+  height:auto;
+  display: inline block;
+  overflow: hidden;}
+
+#castle {float:right;
   display: inline block;
   height:auto;
-  width:40%;
-  max-width: 100%;
+  width: 48%;
+ 
   
 }
 
@@ -276,4 +280,6 @@ display: block;}
   overflow:auto;
   flex:auto;
 }
+
  
+@media screen and (max-width: 1200px){}
