@@ -98,6 +98,7 @@ background-repeat: no-repeat;
   width:40%;
   display: inline block;
   padding:1.5%;
+  display:flex;
   
 }
 
@@ -105,6 +106,7 @@ background-repeat: no-repeat;
   display: inline block;
   height:auto;
   width:40%;
+  max-width: 100%;
   
 }
 
@@ -259,10 +261,14 @@ padding-top: 15%;}
 /* For small screens sizes from 800px wide and down */
 
 @media screen and (max-width: 800px){
-  #nav-bar {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-}
-  }
+  #castle {overflow: hidden;
+  flex: auto;
+background-position: center center;
+width: 100%;
+height: auto;
+}}
+ #about {font-size: larger;
+float: left;
+width:100%;
+display: block;}
+ 
