@@ -271,4 +271,9 @@ height: auto;
 float: left;
 width:100%;
 display: block;}
+
+.people {
+  overflow:auto;
+  flex:auto;
+}
  
