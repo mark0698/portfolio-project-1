@@ -264,15 +264,15 @@ padding-top: 15%;}
 
 /* For small screens sizes from 800px wide and down */
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 600px){
   #castle {overflow: hidden;
   flex: auto;
 background-position: center center;
 width: 100%;
 height: auto;
-}}
- #about {font-size: larger;
-float: left;
+}
+ #blackrock {font-size: larger;
+float: center;
 width:100%;
 display: block;}
 
@@ -280,6 +280,6 @@ display: block;}
   overflow:auto;
   flex:auto;
 }
-
+}
  
 @media screen and (max-width: 1200px){}
