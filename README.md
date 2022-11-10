@@ -11,7 +11,9 @@
 <li>Design Choices
 <li>Typography</li>
 <li>Color scheme</li>
-<li>Technology used
+<li>Technology used</li>
+<li>Testing</li>
+<li>Additional Testing</li>
 
 <h3><u>Features</u></h3>
 <h4><u>Existing feautures</u></h4>
@@ -45,6 +47,8 @@ It provides a direct link back to the home page as well as the normal navigation
 <p>A pop up that allows users to sign up to a newsletter.</p>
 <li>Shop</li>
 <p>A online store whihc allows users to easily purchase Blackrock merchandise with one button check and apple pay features.</p>
+<li>Improve loadspeed</li>
+<p>By compressing the images load speed and performance will be improved.
 
 <h3><u>Site Structure</u></h3>
 <p>History of Blackrock website has four pages. The home page is the default loading page, Events, Residents and Contact page are all accessible primarily from the navigation menu which is an ever present on all pages. The navigation bar allows for easy navigation without having to use the browsers arrows buttons. Headings allow you to see where you are at all times on the website as well as your location being highlighted in white on the navigation bar<p>
@@ -72,3 +76,19 @@ It provides a direct link back to the home page as well as the normal navigation
 <img src="assets/images/events-pass.png">
 <li>Residents</li>
 <img src="assets/images/residents-pass.png">
+<li>Residents</li>
+<img src="assets/images/contact-pass.png">
+
+<h3><u>Additional Testing</u></h3>
+<li>Google Lighthouse</li>
+<p>My site was also tested using Google Lighthouse in Chrome Developer Tools to test my webpage for:
+
+<li>Performance - How the page performs whilst loading.</li>
+<li>Accessibility - Is the site acccessible for all users and how can it be improved.</li>
+<li>Best Practices - Site conforms to industry best practices.</li>
+<li>SEO - Search engine optimisation. Is the site optimised for search engine result rankings.</li></p>
+<img src="assets/images/lighthouse.png">
+<p>My perfomance suffered due to the large sized high quality images I have used, My next step would be to compress those images to improve performance.</p>
+
+<h3><u>Browser Compatibility</u></h3>
+<p>The site was tested on the following browsers with no visible issues for the user. Google Chrome, Microsoft Edge, Safari and Mozilla Firefox.</p>
