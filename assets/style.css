@@ -19,7 +19,7 @@ font-weight: 300;
     text-decoration: none;
   }
   .navbar a {
-    float: left;
+    float: center;
     color: #5CDB95;
     text-align: center;
     padding: 14px 16px;
@@ -150,7 +150,7 @@ background-repeat: no-repeat;
  
 }
 
-#event span {
+#event section {
   background-image: url('../assets/images/events.jpeg');
   background-repeat: NO repeat;
   background-size: cover;
@@ -295,8 +295,8 @@ padding-top: 15%;}
 
 /* For small screens sizes to 896 wide and down */
 
-@media only screen and (max-width: 896px) {
- #castle {overflow: hidden;
+@media screen and (max-width: 896px) {
+  #castle {overflow: hidden;
    background-position: center center;
    width: 100%;
    height: auto;
