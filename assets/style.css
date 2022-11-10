@@ -262,7 +262,7 @@ border-style: solid;
    
   }
   
-  #event_page span {
+  #event_page section {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
