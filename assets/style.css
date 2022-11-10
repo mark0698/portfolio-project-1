@@ -16,6 +16,7 @@ font-weight: 300;
     overflow: hidden;
     width:100%;
     display:flex;
+    text-decoration: none;
   }
   .navbar a {
     float: left;
@@ -30,6 +31,21 @@ font-weight: 300;
     background-color: #ddd;
     color: black;
   }
+#homehighlight {background-color: #ddd;
+  color: black;
+padding-left:0 ;}
+ 
+  #eventshighlight {background-color: #ddd;
+    color: black;
+  padding-left:0 ;}
+  #residentshighlight {background-color: #ddd;
+    color: black;
+  padding-left:0 ;}
+  #contacthighlight {background-color: #ddd;
+    color: black;
+  padding-left:0 ;}
+
+
 
 li {
     display: inline;
@@ -44,7 +60,7 @@ li {
     /* footer styling*/
     
     #footer {
-        position: fixed;
+      position: fixed;
         left: 0;
         bottom: 0;
         width: 100%;
@@ -89,7 +105,7 @@ background-repeat: no-repeat;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #5CDB95;
+  color: black;
 }
 
 /* homepage about styling */
@@ -159,6 +175,7 @@ margin-top: 5px;}
   width: 33.33%;
   box-sizing: border-box;
   text-align: center;
+  padding-bottom: 2%;
 }
 
 .people img {height:250px;
@@ -203,8 +220,15 @@ display: block;
   color: #5CDB95;
   padding: 12px 26px;
   margin-bottom: 8%;
-display: inline-block;
-float: right;}
+  margin-top: 2%;
+
+}
+
+#interest {display: inline-block;
+float:center;
+margin: 2%;
+}
+
 
   /* Noteable resident styling */
   #residents_page p {font-size: large;}

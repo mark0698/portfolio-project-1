@@ -15,10 +15,12 @@
     <header> 
         <nav>
             <div class="navbar">
-                <ol><a href="index.html">Home</a></ol>
-                <ol><a href="events.html">Events</a></ol>
-            <ol><a href="Notable-residents.html">Noteable Residents</a></ol>
-                <ol><a href="contact.html">Contact Us</a></ol> 
+                <ol>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="events.html">Events</a></li>
+            <li><a href="Notable-residents.html">Noteable Residents</a></li>
+                <li id="contacthighlight"><a href="contact.html">Contact Us</a></li>
+            </ol>
         </nav>
         <section id="form">
             <div>
@@ -44,12 +46,16 @@
 </textarea>
 <br>
 <br>
+<section>
 <label for="interest">Areas of interest?</label><br>
 <select name="interest" id="interest">
   <option value="History">History</option>
   <option value="events">Events</option>
   <option value="ge">General enquiry</option><br>
   <br>
+</section>
+<br>
+<div id="button-container-div">
   <input type="submit" id="button" formaction="/contact-landing-page.html">
 </div>
             </form>
