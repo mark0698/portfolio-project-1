@@ -8,7 +8,6 @@ font-weight: 300;
 }
 
 
-
 /* header styling */
 
 .navbar {
@@ -186,7 +185,7 @@ width:250px;
 border-radius: 50%;}
 
 
-/* form styling */
+/* contact form styling */
 
 #form {
   background-image: url('../assets/images/hero-image.jpg');
@@ -233,7 +232,7 @@ margin: 2%;
 }
 
 
-  /* Noteable resident styling */
+  /* Noteable resident page styling */
   #residents_page p {font-size: large;}
   #residents_page h3 {font-size: larger;}
   #residents_page div {padding-left: 2.5%;
@@ -284,7 +283,7 @@ border-style: solid;
   #match {background-image: url(../assets/images/match.jpg);}
 
 
-  /* Landing page styling */
+  /* Contact form fanding page styling */
   #landing-page {font-size: larger;
   text-align: center;
 padding-top: 15%;}
@@ -333,6 +332,9 @@ padding-bottom: 3%;
 margin-bottom: 8%;}
  
 }
+
+
+/* For medium screens sizes to 1200 wide and down */
 @media only screen and (max-width: 1200px){
   #form {background-repeat:no-repeat;
     position:absolute;
