@@ -70,3 +70,5 @@ It provides a direct link back to the home page as well as the normal navigation
 <img src="assets/images/homepage-pass.png">
 <li>Events</li>
 <img src="assets/images/events-pass.png">
+<li>Residents</li>
+<img src="assets/images/residents-pass.png">
