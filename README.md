@@ -14,6 +14,7 @@ This section will allow the user to easily navigate from page to page across all
 On the landing page/homepage we have a brief divison which highlights briefly what is covered in more detail on the "Events Page"
 
 We also briefly outline some of the notable people which are covered in more detail on the actual Residents page. These images also include links to the Residents page.</p>
+<img src="assets/images/home.png">
 
 <h5>The Footer </h5>
 <p>The footer section includes links to the relevant social media sites for History of Blackrock. The links will open to a new tab to allow easy navigation for the user. While also keeping the user on our website and not diverting them away.
@@ -21,6 +22,7 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 <h5>Contact form</h5>
 <p>This page allows users to get in contact with the developers with detail to ask specific questions if there queries are not answered by the information on the webpage</p>
+<img src="assets/images/contact-form.png">
 
 <h5>Contact Form landing page</h5>
 <p>This page confirms for the user that their details have been sent to us. For this project it validates the form only.
