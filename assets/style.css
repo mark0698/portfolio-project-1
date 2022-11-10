@@ -190,13 +190,13 @@ border-radius: 50%;}
 /* form styling */
 
 #form {
-  background-image: url('../assets/images/contact.jpg');
+  background-image: url('../assets/images/hero-image.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: 100%;
-  background-color: #05386B;
-color: white;
+  background-color: white;
+color: black;
 padding-top: 2.5%;
 padding-bottom:10%;
 display: block;
@@ -204,6 +204,7 @@ display: block;
   height:100%;
   text-align: center;
 }
+
 
 #freeform {
   width: 40%;
@@ -259,7 +260,7 @@ border-style: solid;
     color:black;
     display: inline-block;
     float: left;
-    width:90%;
+    width:95%;
     height:600px;
    
   }
@@ -292,10 +293,49 @@ padding-top: 15%;}
 
 /* media queries */
 
-/* For small screens sizes from 480 to 768 wide and down */
+/* For small screens sizes to 896 wide and down */
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 896px) {
   #castle {overflow: hidden;
+  flex: auto;
+background-position: center center;
+width: 100%;
+height: auto;
+display:block;
+}
+ #blackrock {font-size: larger;
+float: center;
+width:100%;
+display: block;}
+
+#form {background-repeat:no-repeat;
+  position:absolute;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+ #george {display:block;
+float:left;
+width:100%;}
+
+#wayne{display:block;
+  float:left;
+  width:100%;}
+
+#thomas {display:block;
+  float:left;
+  width:100%;
+padding-bottom: 3%;}
+ 
+}
+@media all and (max-width: 1200px){
+  #form {background-repeat:no-repeat;
+    position:absolute;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+#castle {overflow: hidden;
   flex: auto;
 background-position: center center;
 width: 100%;
@@ -311,21 +351,7 @@ display: block;}
 .people {
   overflow:hidden;
   flex:auto;
+  display:block;
+  padding-bottom: 10px;
   
-}
-#form {background-repeat:no-repeat;
-  position:absolute;
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-}
-
- 
-}
-@media all and (max-width: 1200px){
-  #form {background-repeat:no-repeat;
-    position:absolute;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
 }}
