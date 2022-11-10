@@ -68,3 +68,5 @@ It provides a direct link back to the home page as well as the normal navigation
 <p>The History of Blackrock site has be throughly tested. All the code has been run through the W3C html Validator and the W3C CSS Validator. Minor errors were found on the home and inspiration pages. After a fix and retest, no errors were returned for both.</p>
 <li>Homepage</li>
 <img src="assets/images/homepage-pass.png">
+<li>Events</li>
+<img src="assets/images/events-pass.png">
