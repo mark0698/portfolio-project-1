@@ -90,10 +90,33 @@ It provides a direct link back to the home page as well as the normal navigation
 <img src="assets/images/lighthouse.png">
 <p>My perfomance suffered due to the large sized high quality images I have used, My next step would be to compress those images to improve performance.</p>
 
-<h3><u>Browser Compatibility</u></h3>
+<h4><u>Browser Compatibility</u></h4>
 <p>The site was tested on the following browsers with no visible issues for the user. Google Chrome, Microsoft Edge, Safari and Mozilla Firefox.</p>
 
-<h3><u>Known bugs</u></h3>
+<h4><u>Known bugs</u></h4>
 <li>Homepage castle picture responsiveness</li>
 <p>The image in the about section of the homepage is not perfect for mobile devices, I will utilise a media query to replace this image with a smaller more suited one on smaller devices.</p>
 <img src="assets/images/mobile.png">
+
+<h3><u>Deployment</u></h3>
+<h4>To deploy the project</h4>
+<p>The site was deployed to GitHub pages. The steps to deploy a site are as follows:
+<ol>
+<li>In the GitHub repository, navigate to the Settings tab.</li>
+<li>Once in Settings, navigate to the Pages tab on the left hand side.</li>
+<li>Under Source, select the branch to master, then click save.</li>
+<li>Once the master branch has been selected, the page will be automatically refresh and the project will be available at the above link </li>
+<li>The repository can be found at <a>https://github.com/mark0698/portfolio-project-1.git</a></li>
+</ol>
+<img src="assets/images/pages.png">
+
+<h4>To create a local clone of the project</h4>
+<ol>
+<li>Click on the tab titled "code".</li>
+<li>In the Clone with HTTPS section, click on the copy and paste button next to the URL</li>
+<li>n your IDE of choice, open Git Bash.</li>
+<li>Change the directory to the location where you would like the repository</li>
+<li>Type git clone, and then paste the URL copied from GitHub.</li>
+<li>Press enter and a local copy of the repository will be created</li>
+</ol>
+<img src="assets/images/clone.png">

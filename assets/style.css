@@ -18,7 +18,7 @@ font-weight: 300;
     text-decoration: none;
   }
   .navbar a {
-    float: center;
+    
     color: #5CDB95;
     text-align: center;
     padding: 14px 16px;
@@ -150,7 +150,7 @@ background-repeat: no-repeat;
 
 #event section {
   background-image: url('../assets/images/events.jpeg');
-  background-repeat: no repeat;
+  background-repeat: no;
   background-size: cover;
   background-position: center;
   overflow:hidden;
