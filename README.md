@@ -92,3 +92,8 @@ It provides a direct link back to the home page as well as the normal navigation
 
 <h3><u>Browser Compatibility</u></h3>
 <p>The site was tested on the following browsers with no visible issues for the user. Google Chrome, Microsoft Edge, Safari and Mozilla Firefox.</p>
+
+<h3><u>Known bugs</u></h3>
+<li>Homepage castle picture responsiveness</li>
+<p>The image in the about section of the homepage is not perfect for mobile devices, I will utilise a media query to replace this image with a smaller more suited one on smaller devices.</p>
+<img src="assets/images/mobile.png">
