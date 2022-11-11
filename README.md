@@ -120,3 +120,12 @@ It provides a direct link back to the home page as well as the normal navigation
 <li>Press enter and a local copy of the repository will be created</li>
 </ol>
 <img src="assets/images/clone.png">
+
+<h3><u>Credits</u></h3>
+<li>The color palette was created using <a href="https://coolors.co">Coolors</a></li>
+<li>The Project was deployed using <a href="https://github.com/">Github</a></li>
+<li>The project was written in <a href="https://www.gitpod.io/">Gitpod</a></li>
+<li>The social media icons were from <a href="https://fontawesome.com/">Font Awesome</a></li>
+<li>The content and photos on notable residents were from  their respective <a href="https://en.wikipedia.org/wiki/Wiki">Wiki's</a></li>
+<li>The images were from <a href="https://www.pexels.com/">Pexels</a></li>
+<li>Coding related queries were solved using <a href="https://codeinstitute.net/ie/">Code Institute</a>, <a href="https://www.w3schools.com/">W3schools</a>, <a href="https://www.w3.org/">W3</a> and <a href="https://stackoverflow.com/">Stack overflow</a></li>
