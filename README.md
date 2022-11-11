@@ -1,6 +1,6 @@
 <h1> Read me File, Project 1<h1>
 <h2> The History of Blackrock</h2>
-<p> This is a website designed for all things Blackrock, Blackrock is a city on the southside of Cork City. This website provides insghts into the history of Blackrock, Noteable residents as well as upcoming and current events. </p>
+<p> This is a  fictional website designed for all things Blackrock, Blackrock is a city on the southside of Cork City. This website provides insghts into the history of Blackrock, Noteable residents as well as upcoming and current events. </p>
 <img src="assets/images/responsive.png">
 <br>
 <h4><u>Content</u></h4>
@@ -14,6 +14,10 @@
 <li>Technology used</li>
 <li>Testing</li>
 <li>Additional Testing</li>
+<li>Known Bugs</li>
+<li>Deployment</li>
+<li>Credits</li>
+<li>Acknowledgments</li>
 
 <h3><u>Features</u></h3>
 <h4><u>Existing feautures</u></h4>
@@ -21,7 +25,7 @@
 <p>Featured on all four pages, the full responsive navigation bar includes links to the About Home page, Events and Contact form and is identical in each page to allow for easy navigation as well as your location being highlighted on the navigation bar.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.</p>
 <li>Landing page</li>
-<p>The index.html page is the about homepage, this page gives a brief overview of what the individual other pages provide.
+<p>The index.html page is the "About" homepage, this page gives a brief overview of what the individual other pages provide.
 
 On the landing page/homepage we have a brief divison which highlights briefly what is covered in more detail on the "Events Page"
 
@@ -46,12 +50,12 @@ It provides a direct link back to the home page as well as the normal navigation
 <li>Newsletter sign up</li>
 <p>A pop up that allows users to sign up to a newsletter.</p>
 <li>Shop</li>
-<p>A online store whihc allows users to easily purchase Blackrock merchandise with one button check and apple pay features.</p>
+<p>A online store which allows users to easily purchase Blackrock merchandise with an easy checkout process.</p>
 <li>Improve loadspeed</li>
 <p>By compressing the images load speed and performance will be improved.
 
 <h3><u>Site Structure</u></h3>
-<p>History of Blackrock website has four pages. The home page is the default loading page, Events, Residents and Contact page are all accessible primarily from the navigation menu which is an ever present on all pages. The navigation bar allows for easy navigation without having to use the browsers arrows buttons. Headings allow you to see where you are at all times on the website as well as your location being highlighted in white on the navigation bar<p>
+<p>History of Blackrock website has five pages. The home page is the default loading page, Events, Residents and Contact page are all accessible primarily from the navigation menu which is an ever present on all pages. The navigation bar allows for easy navigation without having to use the browsers arrows buttons. Headings allow you to see where you are at all times on the website as well as your location being highlighted in white on the navigation bar. There is also a landing page for after you submit your contact form whihc has a link back to the index.html page.<p>
 
 <h3><u>Design Choices</u></h3>
 <li>Typography</li>
@@ -76,7 +80,7 @@ It provides a direct link back to the home page as well as the normal navigation
 <img src="assets/images/events-pass.png">
 <li>Residents</li>
 <img src="assets/images/residents-pass.png">
-<li>Residents</li>
+<li>Contact</li>
 <img src="assets/images/contact-pass.png">
 
 <h3><u>Additional Testing</u></h3>
@@ -114,7 +118,7 @@ It provides a direct link back to the home page as well as the normal navigation
 <ol>
 <li>Click on the tab titled "code".</li>
 <li>In the Clone with HTTPS section, click on the copy and paste button next to the URL</li>
-<li>n your IDE of choice, open Git Bash.</li>
+<li>In your IDE of choice, open Git Bash.</li>
 <li>Change the directory to the location where you would like the repository</li>
 <li>Type git clone, and then paste the URL copied from GitHub.</li>
 <li>Press enter and a local copy of the repository will be created</li>
@@ -129,3 +133,7 @@ It provides a direct link back to the home page as well as the normal navigation
 <li>The content and photos on notable residents were from  their respective <a href="https://en.wikipedia.org/wiki/Wiki">Wiki's</a></li>
 <li>The images were from <a href="https://www.pexels.com/">Pexels</a></li>
 <li>Coding related queries were solved using <a href="https://codeinstitute.net/ie/">Code Institute</a>, <a href="https://www.w3schools.com/">W3schools</a>, <a href="https://www.w3.org/">W3</a> and <a href="https://stackoverflow.com/">Stack overflow</a></li>
+
+
+<h3><u>Acknowledgements</u></h3>
+<p>I would like to thank Precious Ljiege, my mentor for his help throughout this project as well as all at The Code Institue for help on my studies thus far.</p>
