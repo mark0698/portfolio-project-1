@@ -136,4 +136,4 @@ It provides a direct link back to the home page as well as the normal navigation
 
 
 <h3><u>Acknowledgements</u></h3>
-<p>I would like to thank Precious Ljiege, my mentor for his help throughout this project as well as all at The Code Institue for help on my studies thus far.</p>
+<p>I would like to thank Precious Ljege, my mentor for his help throughout this project as well as all at The Code Institue for help on my studies thus far.</p>
